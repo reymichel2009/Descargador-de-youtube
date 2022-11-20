@@ -1,0 +1,5 @@
+telethon
+telebot
+os
+pafy
+time 
